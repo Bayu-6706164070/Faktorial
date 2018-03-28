@@ -1,0 +1,2 @@
+# Faktorial
+Jurnal Faktorial
